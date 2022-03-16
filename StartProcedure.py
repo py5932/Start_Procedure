@@ -16,8 +16,8 @@ from third_party.sim_info import *
 
 
 
-appName = ">YOUR APP NAME HERE<"
-width, height = 800 , 800 # width and height of the app's window
+appName = "Start Procedure"
+width, height = 400 , 200 # width and height of the app's window
 
 simInfo = SimInfo()
 

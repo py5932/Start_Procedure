@@ -39,3 +39,5 @@ So here's a template folder , and a script that already include :
 
 ### If not :
 Please check : \Documents\Assetto Corsa\logs\ __py_log.txt__
+
+https://github.com/ckendell/ACAppTutorial/blob/master/ACAppTutorial.md
